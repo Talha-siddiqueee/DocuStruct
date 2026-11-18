@@ -1,0 +1,13 @@
+
+DOCUSTRUCT DOCUMENT
+
+Name: John Smith
+Age: 25
+Email: john@example.com
+
+Skills:
+Python
+Machine Learning
+Data Analysis
+
+Experience: 2 years
